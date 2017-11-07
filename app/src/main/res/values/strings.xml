@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListViewCustom</string>
+
+    <string-array name="names">
+        <item> Sonu</item>
+        <item> Bonu</item>
+        <item> Tonu</item>
+        <item> Golu</item>
+        <item>Kittu</item>
+        <item>Vedu</item>
+    </string-array>
+
+    <string-array name="phonenos">
+        <item> 0943747656548</item>
+        <item> 084332455665</item>
+        <item> 064754576555</item>
+        <item> 073655382787</item>
+        <item> 076345467463</item>
+        <item> 065465476545</item>
+    </string-array>
+
+</resources>
